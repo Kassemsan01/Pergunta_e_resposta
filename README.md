@@ -1,1 +1,1 @@
-# Sistema de perguntav e resposta
+# Sistema de pergunta e resposta
