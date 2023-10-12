@@ -1,1 +1,1 @@
-# Sistema de pergunta e resposta
+# Sistema de pergunta e resposta usando o python
